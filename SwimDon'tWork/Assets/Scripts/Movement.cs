@@ -316,7 +316,7 @@ public class Movement : MonoBehaviour {
                 return false;
             }
         } */
-        if (Mathf.Abs(transform.position.x-referencePoint.x) < radius * 1.5 && Mathf.Abs(transform.position.z - referencePoint.z) < radius && Mathf.Abs(transform.position.y - referencePoint .y) < radius * 2)
+        if (Mathf.Abs(transform.position.x-referencePoint.x) < radius * 1.5 && Mathf.Abs(transform.position.z - referencePoint.z) < radius*0.75f && Mathf.Abs(transform.position.y - referencePoint .y) < radius * 2)
         {
             return true;
         }

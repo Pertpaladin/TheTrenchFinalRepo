@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.swimdontwork.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "C:\\Users\\VR Student\\Desktop\\SwimDon'tWork\\actions.json",
+      "action_manifest_path": "C:\\Users\\VR Student\\Desktop\\TheTrenchFinalRepo\\SwimDon'tWork\\actions.json",
       "strings": {
         "en_us": {
           "name": "SwimDon'tWork [Testing]"
